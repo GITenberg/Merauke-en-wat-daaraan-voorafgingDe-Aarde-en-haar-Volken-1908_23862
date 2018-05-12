@@ -1,0 +1,29 @@
+_repo: Merauke-en-wat-daaraan-voorafgingDe-Aarde-en-haar-Volken-1908_23862
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Snelleman, Johannes François
+    alias: Snelleman, Johannes Francois
+    birthdate: 1852
+    deathdate: 1938
+    gutenberg_agent_id: '26092'
+    url: http://www.gutenberg.org/2009/agents/26092
+description: ''
+gutenberg_issued: '2007-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23862'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Papua (Indonesia) -- Discovery and exploration'
+- !lcc 'DU'
+title: 'Merauke, en wat daaraan voorafging
+
+  De Aarde en haar Volken, 1908'
+url: http://www.gutenberg.org/ebooks/23862
